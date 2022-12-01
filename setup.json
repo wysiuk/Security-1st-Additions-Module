@@ -1,0 +1,24 @@
+[
+	{
+		"id": 121,
+		"type": "module",
+		"name": "Covenants - Additions",
+		"slug": "covenant-additions",
+		"detail": false,
+		"detail_template": "templates/blank_page",
+		"detail_default_layout": "default",
+		"sz": false,
+		"sz_updated": true,
+		"sz_display_type": "404",
+		"use_standard_fields": true,
+		"system_fields": {
+			"module_field_120_1": {
+				"name": "Covenant Subdivision",
+				"type": "datasource",
+        "datasource_id": "module_122",
+				"live": true,
+				"required": false
+			}
+		}
+	}
+]
